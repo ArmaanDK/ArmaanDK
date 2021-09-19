@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @armaanadk1234
+- 👋 Hi, I’m @ArmaanK
 - 👀 I’m interested in biomechatronic systems technology and optimising medical assessments.
 - 🌱 I’m currently learning design and project management principles for clinical device products.
 - 💞️ I’m looking to collaborate on clinical tool projects as a mechanical designer or systems engineer.
